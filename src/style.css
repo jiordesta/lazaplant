@@ -1,0 +1,27 @@
+.navbarbody{
+    background-color: #09821E;
+}
+.linkbody{
+    font-size: 30px;
+    padding: 5px;
+    margin: 25px;
+    text-decoration: none;
+    color: #DAF7A6;
+}
+.pagebody{
+    background-color:#61D575;
+    min-height: 725px;
+}
+.pagecontent{
+    padding: 70px;
+    text-align:left;
+    font-size: 50px;
+    color: antiquewhite;
+    min-width: 450px;
+}
+.footerbody{
+    background-color: #09821E;
+}
+.App{
+    font-family: Courier;
+}
